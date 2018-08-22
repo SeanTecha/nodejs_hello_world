@@ -1,4 +1,4 @@
-ipcrm/nodejs_hello_world:
+seantecha/nodejs_hello_world:
   Env:
     - PORT: "8000"
   PreBuild:
